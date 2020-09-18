@@ -7,7 +7,8 @@ Unity Android Game (C#)
 Utilizes touch and drag mechanic to fling the player platform to platform.
 
 ## Gameplay Screenshots
-![alt text](https://github.com/punch2dface/The-Tower/blob/master/Gameplay%20Reference/Screenshot_20200918-125738_The%20Tower.jpg)
+![alt text](https://github.com/punch2dface/The-Tower/blob/master/Gameplay%20Reference/Screenshot_20200918-125745_The%20Tower.jpg)
+![alt text](https://github.com/punch2dface/The-Tower/blob/master/Gameplay%20Reference/Screenshot_20200918-125753_The%20Tower.jpg)
 
 ## Problems That May Occur
 
