@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 83a2d916f99b1c643b76e45ddca1b2c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1333439504715762810
+    second: pixil-frame-0 (9)_0
+  - first:
+      213: 6908235340577561180
+    second: pixil-frame-0 (9)_1
+  - first:
+      213: 3513869480983575075
+    second: pixil-frame-0 (9)_2
+  - first:
+      213: -2587083723479360366
+    second: pixil-frame-0 (9)_3
+  - first:
+      213: -4555283450430909531
+    second: pixil-frame-0 (9)_4
+  - first:
+      213: -2966349956956117491
+    second: pixil-frame-0 (9)_5
+  - first:
+      213: -8979764563486926961
+    second: pixil-frame-0 (9)_6
+  - first:
+      213: -9046952747783075367
+    second: pixil-frame-0 (9)_7
+  - first:
+      213: -8450759814192412765
+    second: pixil-frame-0 (9)_8
+  - first:
+      213: -8946479796684164375
+    second: pixil-frame-0 (9)_9
+  - first:
+      213: 4514970100811926127
+    second: pixil-frame-0 (9)_10
+  - first:
+      213: 4636260729616144650
+    second: pixil-frame-0 (9)_11
+  - first:
+      213: -2169952445760350756
+    second: pixil-frame-0 (9)_12
+  - first:
+      213: 5110132961508616021
+    second: pixil-frame-0 (9)_13
+  - first:
+      213: -2159243016971921811
+    second: pixil-frame-0 (9)_14
+  - first:
+      213: -7289862650468841422
+    second: pixil-frame-0 (9)_15
+  - first:
+      213: 6271990805482406106
+    second: pixil-frame-0 (9)_16
+  - first:
+      213: 6188631659364962995
+    second: pixil-frame-0 (9)_17
+  - first:
+      213: 311638183371013805
+    second: pixil-frame-0 (9)_18
+  - first:
+      213: 2001809694486270827
+    second: pixil-frame-0 (9)_19
+  - first:
+      213: -855464885432971994
+    second: pixil-frame-0 (9)_20
+  - first:
+      213: -826999922461424629
+    second: pixil-frame-0 (9)_21
+  - first:
+      213: -2066667205371293287
+    second: pixil-frame-0 (9)_22
+  - first:
+      213: 6534583205456792818
+    second: pixil-frame-0 (9)_23
+  - first:
+      213: 5571353217852457796
+    second: pixil-frame-0 (9)_24
+  - first:
+      213: -1443503865995337551
+    second: pixil-frame-0 (9)_25
+  - first:
+      213: 4307152634462510176
+    second: pixil-frame-0 (9)_26
+  - first:
+      213: -5364510806582946327
+    second: pixil-frame-0 (9)_27
+  - first:
+      213: -5741510823648976664
+    second: pixil-frame-0 (9)_28
+  - first:
+      213: -4128817916265427060
+    second: pixil-frame-0 (9)_29
+  - first:
+      213: 7312008628158948083
+    second: pixil-frame-0 (9)_30
+  - first:
+      213: -537520375449687043
+    second: pixil-frame-0 (9)_31
+  - first:
+      213: -6944493257985678484
+    second: pixil-frame-0 (9)_32
+  - first:
+      213: -3119195761069105376
+    second: pixil-frame-0 (9)_33
+  - first:
+      213: -3656130318671474349
+    second: pixil-frame-0 (9)_34
+  - first:
+      213: 5538981525930922583
+    second: pixil-frame-0 (9)_35
+  - first:
+      213: 2646039377708946248
+    second: pixil-frame-0 (9)_36
+  - first:
+      213: -7044575654062957719
+    second: pixil-frame-0 (9)_37
+  - first:
+      213: -339458896115099354
+    second: pixil-frame-0 (9)_38
+  - first:
+      213: 8568280346900578204
+    second: pixil-frame-0 (9)_39
+  - first:
+      213: 4241508037163499405
+    second: pixil-frame-0 (9)_40
+  - first:
+      213: -9149342465905584227
+    second: pixil-frame-0 (9)_41
+  - first:
+      213: 7064939391415033726
+    second: pixil-frame-0 (9)_42
+  - first:
+      213: -3597188641056017799
+    second: pixil-frame-0 (9)_43
+  - first:
+      213: -6503855799966361749
+    second: pixil-frame-0 (9)_44
+  - first:
+      213: 1054754942352804717
+    second: pixil-frame-0 (9)_45
+  - first:
+      213: -5551077633705386476
+    second: pixil-frame-0 (9)_46
+  - first:
+      213: 3105078195500258024
+    second: pixil-frame-0 (9)_47
+  - first:
+      213: 6678034630177313412
+    second: pixil-frame-0 (9)_48
+  - first:
+      213: -3679803320454861955
+    second: pixil-frame-0 (9)_49
+  - first:
+      213: -8923845660495164347
+    second: pixil-frame-0 (9)_50
+  - first:
+      213: -7251944306452127808
+    second: pixil-frame-0 (9)_51
+  - first:
+      213: 5504483702486078865
+    second: pixil-frame-0 (9)_52
+  - first:
+      213: -8586760692969589183
+    second: pixil-frame-0 (9)_53
+  - first:
+      213: -5519157136571104900
+    second: pixil-frame-0 (9)_54
+  - first:
+      213: -3407738149942000365
+    second: pixil-frame-0 (9)_55
+  - first:
+      213: 1270323718711954929
+    second: pixil-frame-0 (9)_56
+  - first:
+      213: -8839344837535362258
+    second: pixil-frame-0 (9)_57
+  - first:
+      213: 7490431265082359516
+    second: pixil-frame-0 (9)_58
+  - first:
+      213: -3745035180006401079
+    second: pixil-frame-0 (9)_59
+  - first:
+      213: 5507506714269276447
+    second: pixil-frame-0 (9)_60
+  - first:
+      213: -4222432257773202140
+    second: pixil-frame-0 (9)_61
+  - first:
+      213: 7216820580836370332
+    second: pixil-frame-0 (9)_62
+  - first:
+      213: -9219412195165135279
+    second: pixil-frame-0 (9)_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixil-frame-0 (9)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683b1f7d5dbae7de0800000000000000
+      internalID: -1333439504715762810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-frame-0 (9)_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5adcebd07bfedf50800000000000000
+      internalID: 6908235340577561180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

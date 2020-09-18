@@ -20,7 +20,12 @@ public class PlayerControl : MonoBehaviour
     public GameObject pauseBtn;
     public GameObject victoryCanvas;
 
+    public Animator anim;
 
+    private void Start()
+    {
+        lr.positionCount = 0;
+    }
     private void Update()
     {
         if (isGrounded)
@@ -50,6 +55,7 @@ public class PlayerControl : MonoBehaviour
 
     void DragStart()
     {
+        anim.SetBool("Dragging", true);
         dragStartPos = Camera.main.ScreenToWorldPoint(touch.position);
         dragStartPos.z = 0f;
         lr.positionCount = 1;
@@ -70,6 +76,7 @@ public class PlayerControl : MonoBehaviour
         Vector3 force = dragStartPos - dragReleasePos;
         Vector3 clampedForce = Vector3.ClampMagnitude(force, maxDrag) * power;
         rb.AddForce(clampedForce, ForceMode2D.Impulse);
+        anim.SetBool("Dragging", false);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

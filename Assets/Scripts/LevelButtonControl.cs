@@ -27,21 +27,15 @@ public class LevelButtonControl : MonoBehaviour
 
     public void PauseGame()
     {
-        // set pause window active
-        // pause time
-        //
         pauseButton.SetActive(false);
         pc.enabled = false;
         pauseWindow.SetActive(true);
-        Time.timeScale = 0f;
         Debug.Log("Game Is Paused");
+        Time.timeScale = 0f;
     }
 
     public void RetryGame()
     {
-        // set window to false
-        // set player position back to origin
-        // resume game
         retryGame = true;
         gameOverWindow.SetActive(false);
         pauseButton.SetActive(true);
@@ -51,49 +45,57 @@ public class LevelButtonControl : MonoBehaviour
         rb.angularVelocity = 0f;
 
         cam.transform.position = ogCamPos;
-
         Time.timeScale = 1f;
     }
 
+
     public void QuitGame(string menuScene)
     {
-        // go back to main menu scene
-        pc.enabled = true;
+        StartCoroutine(ClickQuit(menuScene));
         Time.timeScale = 1f;
+    }
+
+    IEnumerator ClickQuit(string menuScene)
+    {
+        yield return new WaitForSeconds(0.4f);
+        pc.enabled = true;
         SceneManager.LoadScene(menuScene);
     }
 
     public void Option()
     {
-        // set option window to true
-        // set
         pauseWindow.SetActive(false);
         optionWindow.SetActive(true);
-        // save button etc.
     }
 
     public void ResumeGame()
     {
-        // similar to retry game function
         pauseButton.SetActive(true);
         pc.enabled = true;
         pauseWindow.SetActive(false);
-        Time.timeScale = 1f;
         Debug.Log("Game Has been Resumed");
+        Time.timeScale = 1f;
     }
 
     public void SaveOption()
     {
-        //save setting
         optionWindow.SetActive(false);
         pauseWindow.SetActive(true);
     }
 
+
     public void NextLevel(string nextLevel)
     {
-        //pc.enabled = true;
-        //Time.timeScale = 1f;
+        StartCoroutine(ClickNextLevel());
         SceneManager.LoadScene(nextLevel);
+        Time.timeScale = 1f;
+        pc.enabled = true;
+    }
 
+    IEnumerator ClickNextLevel()
+    {
+        // need to rework this function so that audio doesnt reset back to 1 when clicking next Level
+        yield return new WaitForSeconds(0.4f);
+        Debug.Log("Level reloaded");
     }
 }

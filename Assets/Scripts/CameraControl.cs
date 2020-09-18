@@ -18,7 +18,7 @@ public class CameraControl : MonoBehaviour
     {
         //cam.transform.position = player.transform.position;
         maxPlayerHeight = player.transform.position.y;
-        transform.position = new Vector3(0, maxPlayerHeight, -1);
+        transform.position = new Vector3(0, maxPlayerHeight, -10);
     }
 
     // Update is called once per frame
@@ -27,13 +27,13 @@ public class CameraControl : MonoBehaviour
         if(LevelButtonControl.retryGame == true)
         {
             maxPlayerHeight = player.transform.position.y;
-            transform.position = new Vector3(0, maxPlayerHeight, 0);
+            transform.position = new Vector3(0, maxPlayerHeight, -10);
             LevelButtonControl.retryGame = false;
         }
         if(player.transform.position.y > maxPlayerHeight)
         {
             maxPlayerHeight = player.transform.position.y;
-            transform.position = new Vector3(0, maxPlayerHeight, 0);
+            transform.position = new Vector3(0, maxPlayerHeight, -10);
         }
     }
 }

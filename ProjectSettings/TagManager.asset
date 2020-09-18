@@ -8,6 +8,7 @@ TagManager:
   - Wall
   - Bottom Ground
   - Goal
+  - Option
   layers:
   - Default
   - TransparentFX
